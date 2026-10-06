@@ -1,1 +1,1 @@
-python course
+first python course
